@@ -22,6 +22,7 @@ public class identificarNumero {
                 System.out.println("Este número é " + igual + " a " + base);
             }
             //if
+            // Simplificando utilizando o operador ternário
             System.out.println((x % 2 == 0) ? "Este número é par" : "Este número é impar");//{
                // System.out.println("Este número é " + par);
             //} else {
